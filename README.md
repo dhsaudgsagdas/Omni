@@ -79,47 +79,9 @@ Omni offers a complete suite of tools for Discord server management and communit
 </tr>
 </table>
 
-<a name="bot-intents"></a>
-
-## Required Bot Intents
-TitanBot requires the following Discord intents:
-- **Guilds**
-- **Guild Messages**
-- **Message Content**
-- **Guild Members**
-- **Guild Message Reactions**
-- **Guild Voice States**
-- **Direct Messages**
-- **Bot**
-- **Applications.commands**
-
-### Required Permissions
-- **View Channels**
-- **Send Messages**
-- **Embed Links**
-- **Attach Files**
-- **Read Message History**
-- **Manage Messages**
-- **Manage Channels**
-- **Manage Roles**
-- **Kick Members**
-- **Manage Messages**
-- **Ban Members**
-- **Moderate Members**
-- **Connect**
-
-### Development Guidelines
-- Follow existing code style
-- Add proper error handling
-- Include documentation for new features
-- Test with PostgreSQL and memory storage
 
 ## License
 
 Omni is released under the MIT License.
-
-## Thank You
-
-Thank you for choosing TitanBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
 
 *Last updated: May 2026*
