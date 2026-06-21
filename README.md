@@ -1,13 +1,6 @@
 # Omni - Ultimate Discord Bot
 
 
-- [Features Overview](#features-overview)
-- [Quick Setup](#quick-setup)
-- [Manual Installation Steps](#manual-installation-steps)
-- [Support Server](https://discord.gg/QnWNz2dKCE)
-- [Required Bot Intents](#bot-intents)
-- [Contributing](#contributing)
-
 <a name="features-overview"></a>
 ## Features Overview
 
