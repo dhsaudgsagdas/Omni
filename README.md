@@ -11,7 +11,7 @@
 <a name="features-overview"></a>
 ## Features Overview
 
-TitanBot offers a complete suite of tools for Discord server management and community engagement:
+Omni offers a complete suite of tools for Discord server management and community engagement:
 
 <table>
 <tr>
